@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sukesan28
-- 👀 I’m interested in AI Enginner
+- 👀 I’m interested in Data Science Enginner
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
