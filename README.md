@@ -45,8 +45,8 @@ I love solving problems, writing clean code, and continuously learning new techn
 
 ## 💼 Connect with Me  
 
-🔗 **LinkedIn:** [Sukesan](https://www.linkedin.com/in/sukesan-r-98720a280/)  
-🌐 **GitHub:** [Sukesan R](https://github.com/Sukesan28) 
+🔗 **LinkedIn:** [🔗](https://www.linkedin.com/in/sukesan-r-98720a280/)  
+🌐 **GitHub:** [🌐](https://github.com/Sukesan28) 
 📩 **Email:** sukesanramasamy204@gmail.com
 
 ---
