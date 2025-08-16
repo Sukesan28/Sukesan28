@@ -45,8 +45,11 @@ I love solving problems, writing clean code, and continuously learning new techn
 
 ## 💼 Connect with Me  
 
-🔗 **LinkedIn:** [🔗](https://www.linkedin.com/in/sukesan-r-98720a280/)  
-🌐 **GitHub:** [🌐](https://github.com/Sukesan28) 
-📩 **Email:** sukesanramasamy204@gmail.com
+## 💼 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukesan-r-98720a280/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sukesan28)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sukesan28.github.io/Portfolio/)  
+**Email : ** sukesanramasamy204@gmail.com
 
 ---
