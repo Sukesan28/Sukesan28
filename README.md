@@ -22,6 +22,11 @@ I love solving problems, writing clean code, and continuously learning new techn
 
 ---
 
+### 💡 LeetCode Stats  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/u/Sukesan28/)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sukesan28?theme=dark&font=Roboto)  
+
+
 ## 🛠 Languages and Tools  
 
 ### 💻 Programming Languages  
