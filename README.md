@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sukesan 😎
+ # Hi there! 👋 I'm Sukesan 😎
 
 ## 🚀 Java Developer | Frontend Developer | Code Enthusiast | Problem Solver
 
@@ -38,7 +38,6 @@ I love solving problems, writing clean code, and continuously learning new techn
 ### ⚙️ Backend & Database  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
 
 ### 🔧 Tools & Technologies  
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
