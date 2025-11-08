@@ -1,8 +1,8 @@
  # Hi there! 👋 I'm Sukesan 😎
 
-## 🚀 Java Developer | Frontend Developer | Code Enthusiast | Problem Solver
+## 🚀 Software Developer | Code Enthusiast | Problem Solver
 
-Passionate **Java Developer and Frontend Enthusiast**, skilled in crafting efficient solutions and building user-friendly applications.  
+Passionate **Software Developer**, skilled in crafting efficient solutions and building user-friendly applications.  
 I love solving problems, writing clean code, and continuously learning new technologies to grow as a software professional.  
   
 ---
@@ -10,7 +10,7 @@ I love solving problems, writing clean code, and continuously learning new techn
 ## 🌟 About Me  
 
 - 🎓 **B. Tech in Artificial Intelligence & Data Science** at **V.S.B Engineering College, Karur** (*CGPA: 8.06*)  
-- 💻 Proficient in *Java, HTML, CSS, JavaScript, MySQL*  
+- 💻 Proficient in *Java, HTML, CSS, JavaScript(DOM), MySQL*  
 - 🏆 Strong in *Data Structures & Algorithms, Problem-Solving, and Competitive Coding*  
 - 📚 Focused on mastering core development & backend integration with databases.  
 
